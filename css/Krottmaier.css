@@ -1,0 +1,9 @@
+tei-p {
+  background-color: grey;
+}
+tei-hi::before {
+  content: "***"
+}
+tei-hi::after {
+  content: "***"
+}
